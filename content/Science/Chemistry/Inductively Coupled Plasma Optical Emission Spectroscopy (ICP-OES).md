@@ -1,0 +1,2 @@
+- Sample introduced into plasma, causing excitation
+- Emitted light analyzed to determine sample’s elemental composition

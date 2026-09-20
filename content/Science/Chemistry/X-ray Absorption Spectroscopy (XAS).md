@@ -1,0 +1,2 @@
+- Measures absorption of X-rays, which excites inner electrons
+- Coordination, oxidation state, electronic structure

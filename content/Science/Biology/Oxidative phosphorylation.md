@@ -1,0 +1,13 @@
+- Electron transport chain
+	- NADH pushes H+ ions into intermembrane space, creating H+ gradient
+- Chemiosmosis
+	- Too much H+ ions in intermembrane space pushes them through ATP synthase back into matrix to make energy
+- NADH = 3 (2.5 realistically) ATP
+- FADH2 = 2 (1.5 realistically) ATP
+- Net output
+	- 10 NADH $\rightarrow$ 30 (25 realistically) ATP
+	- 2 FADH2 $\rightarrow$ 4 (3 realistically) ATP
+	- 34 (28 realistically) ATP
+- Cumulative output
+	- 38 (32 realistically) ATP
+Campbell 9.5

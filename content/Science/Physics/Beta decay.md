@@ -1,0 +1,2 @@
+- Neutron becomes a proton and releases a beta particle (electron)
+- Increases atomic number by 2

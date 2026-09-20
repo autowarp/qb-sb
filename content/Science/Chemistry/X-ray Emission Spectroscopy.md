@@ -1,0 +1,2 @@
+- X-rays cause inner shell electrons to be ejected, atoms release energy as X-ray fluorescence
+- Elemental analysis

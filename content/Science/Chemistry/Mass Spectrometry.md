@@ -1,0 +1,12 @@
+- Measures mass-to-charge ratio (m/z) of ions to form mass spectrum
+- May or may not fragment sample molecules
+	- Hard ionization
+		- Large transfer of internal energy, causing fragmentation
+		- Identify unknown small molecules by matching fragments
+		- Electron Ionization (EI)
+	- Soft ionization
+		- Minimal transfer of internal energy, causing little to no fragmentation
+		- Intact ion shows in spectrum
+		- Non-destructive exact molecular weight of fragile/large biomolecules
+- Determines molecular weight, elemental composition, and structural fragmentation
+- Determines isotopic signature of an elemental sample

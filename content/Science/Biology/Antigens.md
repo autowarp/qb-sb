@@ -1,0 +1,3 @@
+- Molecule or portion of molecule that can bind to specific antibody or T-cell receptor
+- May trigger immune response
+- Proteins, peptides, polysaccharides, lipids, or nucleic acids

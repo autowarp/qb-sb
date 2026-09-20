@@ -1,0 +1,13 @@
+- Adaptive immune system (specific)
+- Cell-mediated immunity: does not rely on production of antibodies but rather activation of [[Phagocytes]], Killer [[T cell]], and release of [[Cytokines]]
+- Precursors migrate to [[Thymus]] (namesake) and undergo maturation and selection
+- In maturation, V(D)J recombination (type of somatic recombination) occurs
+	- V, D, J segments shuffled to create diverse antigen receptors
+- Express CD8 or CD4 receptors
+	- Bind to antigens bound to MHC (major histocompatibility complex)
+- CD4+ T cells are mostly T helper cells
+	- Activate other immune cells
+	- Are depleted in [[AIDS]]
+- CD8+ T cells are mostly cytotoxic/killer T cells
+	- Kill infected cells
+	- Secretory granules house perforin (pore-forming toxic protein also found in [[Natural killer cell]])

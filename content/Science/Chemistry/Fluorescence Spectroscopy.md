@@ -1,0 +1,2 @@
+- Molecules absorb light (usually in UV or Vis) and emit light at longer wavelength
+- Detecting and quantifying trace amounts of compounds

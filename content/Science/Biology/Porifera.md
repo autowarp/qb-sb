@@ -1,0 +1,1 @@
+- Choanocytes move food past microvilli to absorb nutrients in filter-feeding

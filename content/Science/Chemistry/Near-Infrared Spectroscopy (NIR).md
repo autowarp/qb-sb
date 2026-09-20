@@ -1,0 +1,2 @@
+- Measures molecular vibrations from NIR
+- Non-destructive analysis

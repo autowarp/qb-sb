@@ -1,0 +1,2 @@
+- Sample introduced into flame, atomized and excited, emits light
+- Determination of metal ions in aqueous solutions

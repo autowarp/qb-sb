@@ -1,0 +1,71 @@
+- nucleons
+- pions
+- mesons
+- hadrons
+- for non magnetic index of refraction is proportional to square root of permittivity
+- search qbreader for “constant” and study all constants
+- notable moons of planets
+- discoverers of planets
+- hadley cell
+- n order reactions
+- solar cycle
+- brain
+- isospin
+- fermions and bosons
+- crystals
+- tafel equation
+- butler volmer equation
+- electricity
+- Minkowski
+- milankovich cycle
+- soil horizons
+- spectroscopy
+- human polyps
+- common pioneer species
+- quantum numbers
+- conservative forces
+- ocean zones
+- glyoxisome
+- acetocolene esterase
+- essential amino acids
+- inner pair effect
+- battery anode, cathode
+- goldish dissolution
+- avogadro’s law
+- bowen reaction series
+- Mohorovičić discontinuity
+- ploidity
+- carnot cycle
+- uric acid urea
+- wolf-rayet star
+- pressure
+- hertzsprung russell diagram
+- covers in set theory
+- rings in graph theory
+- fermat
+- poisson process
+- singular/degenerate matrix
+- complementary and supplementary angle
+- gauss
+- roger penrose
+- thomas babes
+- knots in set theory
+- statistical power
+- ronald fisher
+- graph theory
+- orthogonal
+- series
+- camille jordan
+- Karl Weierstrass
+- groups in math
+- pygmalion russell
+- vasopressin
+- regolith
+- marcel duchamp
+- navier stokes equations
+- a sunday afternoon on the island of la grande jatte georges seurat
+- octavio paz
+- gabriel garcia marquez
+- tagore’s let my country awake
+- lattice energy
+- madame bovary by flaubert

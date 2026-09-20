@@ -1,0 +1,3 @@
+- Measures absorption of radio radiation by nuclei in strong magnetic field (transitioning spin states)
+- Identifies molecular structure and connectivity (what’s bonded to what)
+- Results often analyzed with [[Fourier transform]]

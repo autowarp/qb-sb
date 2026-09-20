@@ -1,0 +1,2 @@
+- Measures molecular vibrations from IR
+- Identifies functional groups and chemical bonds

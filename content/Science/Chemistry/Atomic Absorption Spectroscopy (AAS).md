@@ -1,0 +1,2 @@
+- Absorption of light by free atoms in gas phase
+- Determines trace amounts of metals in samples

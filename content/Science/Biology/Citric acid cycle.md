@@ -1,0 +1,13 @@
+- Outputs per acetyl CoA:
+	- 3 NADH per acetyl CoA
+	- 1 FADH2 per acetyl CoA
+	- 1 ATP per acetyl CoA
+- Net output:
+	- 6 NADH
+	- 2 FADH2
+	- 2 ATP
+- Cumulative output:
+	- 10 NADH
+	- 2 FADH2
+	- 4 ATP
+Campbell 9.4

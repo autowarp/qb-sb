@@ -1,0 +1,8 @@
+- Soft muscular body
+- Mantle with cavity for breathing and excretion
+- Radula for feeding (except in bivalves)
+	- Comparable to tongue
+	- Scrapes or cuts food before it enters esophagus
+- Common nervous system structure
+- Largest marine phylum
+- Includes clams, sea snails, nautilus

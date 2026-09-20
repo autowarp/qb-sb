@@ -1,0 +1,1 @@
+- Releases gamma ray without changing atomic number or mass number

@@ -1,0 +1,2 @@
+- Atoms in a sample are excited (often by flame, plasma, electric arc), then emit light at characteristic wavelengths and return to ground state
+- Analyze elemental composition

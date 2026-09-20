@@ -1,0 +1,2 @@
+- Releases alpha particle (Helium-4 nucleus, 2 protons and 2 neutrons)
+- Decreases atomic number by 2 and mass number by 4
