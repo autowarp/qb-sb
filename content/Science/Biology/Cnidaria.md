@@ -24,9 +24,23 @@
 		- Some cnidarians are exclusively polyps or medusae while others have both stages in life cycle
 - Use cells called cnidocytes containing organelles called cnidae, which can explode outward
 	- Nematocysts: specialized stinging cnidae
-- Contractile tissues
-	- Epidermal and gastrodermal cells have bundles of microfilaments arranged into contractile fibers
-	- Gastrovascular cavity acts as hydrostatic skeleton
+- Movement via contraction with mouth closed
+	- Contractile tissues
+		- Epidermal and gastrodermal cells have bundles of microfilaments arranged into contractile fibers
+	- Gastrovascular cavity acts as hydrostatic skeleton, pushing back on contractile tissues
 		- Pressurized fluid in closed body compartment
-	- Movement via contraction with mouth closed
-- 
+- Diverged into two major clades
+	- Medusozoa
+		- Produce medusa
+		- Include scyphozoans (jellies), cubozoans (box jellies), and hydrozoans
+			- Hydrozoans alternate between polyp and medusa forms, each producing the other
+				- Include Obelia, which spend most of their time in polyp form, and hydras, which only exist in polyp form
+					- Still included in medusozoa by evolutionary descent
+			- Scyphozoans and cubozoans spend most of their life in medusa stage
+	- Anthozoa
+		- Only exist as polyps
+		- Include corals, which can exist in solitary or colonial forms
+			- Secrete hard exoskeleton of calcium carbonate
+			- Coral reefs form from accumulation of skeletal remains over time
+			- Serve as habitats for other species
+- Formerly [[Coelenterata]], which also included [[Ctenophora]]
