@@ -1,2 +1,2 @@
-- Absorption of UV-Vis
+- Absorption of UV-vis wavelengths
 - Determines concentrations
