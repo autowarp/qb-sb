@@ -1,1 +1,32 @@
-These organisms have a jelly-like substance between two layers of epithelial tissue; that substance is called mesoglea. This phylum lacks a hard skeleton, instead relying on a hydrostatic skeleton. They can reproduce either sexually or asexually; the mode depends mainly on environmental factors. The name of these organisms comes from the specials cells that these organisms use for defense and predation. The young form of this phylum is known as the polyp form, while the adult (#) form is the medusa. Name this phylum that contains organisms such as hydras and jellyfishes
+- Eumetazoans: "true animals", contain tissues
+- Include hydras, corals, jellies
+- Simple, diploblastic, radial body plan
+	- Diploblastic: develop with two germ layers
+		- Germ layers: primary layer of cells formed during animal embryonic development
+	- Sac with central digestive compartment (gastrovascular cavity), which functions as both mouth and anus
+	- Ring of tentacles around mouth pushes food into gastrovascular cavity
+	- Body wall has outer layer of epidermis derived from ectoderm and inner layer of gastrodermis derived from endoderm, with mesoglea in between
+		- Digestion begins in gastrovascular cavity, where enzymes break down prey
+		- Then, gastrodermal cells absorb nutrients into food vacuoles
+	- Variations
+		- Polyps
+			- Cylindrical
+			- [[Asexual reproduction]]
+			- Mostly sessile
+			- Adhere to substrate by aboral end of body (opposite to the mouth) and extend tentacles, waiting for prey
+			- Include hydras and sea anemones
+		- Medusa
+			- Flattened, mouth-down version of polyp
+			- [[Sexual reproduction]]
+			- Motile: passive drifting and contractions
+			- Bell-shaped body
+			- Include jellies
+		- Some cnidarians are exclusively polyps or medusae while others have both stages in life cycle
+- Use cells called cnidocytes containing organelles called cnidae, which can explode outward
+	- Nematocysts: specialized stinging cnidae
+- Contractile tissues
+	- Epidermal and gastrodermal cells have bundles of microfilaments arranged into contractile fibers
+	- Gastrovascular cavity acts as hydrostatic skeleton
+		- Pressurized fluid in closed body compartment
+	- Movement via contraction with mouth closed
+- 

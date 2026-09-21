@@ -1,1 +1,3 @@
+- Not eumetazoans ("true animals") since they do not contain tissues
+- Hermaphrodites: function as both male and female in sexual reproduction, producing sperm and eggs
 - Choanocytes move food past microvilli to absorb nutrients in filter-feeding
