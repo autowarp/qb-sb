@@ -1,0 +1,4 @@
+- Rejected phylum including [[Cnidaria]] and [[Ctenophora]]
+- Hollow body cavity
+- Two layers of cells (ectoderm and endoderm) with undifferentiated middle layer (mesoglea)
+- Radial symmetry

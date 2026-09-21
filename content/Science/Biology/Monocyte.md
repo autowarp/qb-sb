@@ -1,0 +1,2 @@
+- Largest leukocytes in bloodstream
+- Monocytes differentiate into [[Macrophage]] upon entering tissue

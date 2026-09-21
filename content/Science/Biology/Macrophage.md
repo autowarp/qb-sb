@@ -1,0 +1,9 @@
+- Type of [[Phagocyte]]
+- Various tissues contain their own resident macrophages
+	- Kupffer cells in [[Liver]]
+	- Microglia in [[Brain]]
+	- [[Osteoclasts]] in bone tissue
+- When unable to eliminate foreign organisms or substances, macrophages recruit other cells and surround them to form a granuloma
+	- Seen in tuberculosis
+- Can ingest oxidized [[LDL]] to become foam cells
+	- Contribute to plaque formation in atherosclerosis, since they contain [[Cholesterol]]

@@ -1,1 +1,1 @@
-[[Lymphatic system]]
+[[Immune system]]

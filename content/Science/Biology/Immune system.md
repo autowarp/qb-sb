@@ -1,0 +1,17 @@
+- Two major subsystems
+	- [[Innate immune system]]: preconfigured broad response
+	- [[Adaptive immune system]]: specific response to stimuli by learning to recognize previously encountered molecules
+- White blood cells, also called leukocytes, immune cells, or immunocytes
+	- Generally larger than red blood cells
+	- Produced in bone marrow from hematopoietic stem cells
+	- Have nuclei, unlike [[Red blood cell]] and [[Platelet]]
+	- Division
+		- Granulocyte
+		- Lymphocyte: originate from lymphoid cells
+			- [[B cell]]
+			- [[T cell]]
+			- [[Natural killer (NK) cell]]
+		- [[Monocyte]]
+			- [[Macrophage]]
+			- [[Dendritic cell]]
+		- [[Phagocyte]]

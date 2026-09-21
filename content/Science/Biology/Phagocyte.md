@@ -1,0 +1,2 @@
+- Cells that perform phagocytosis to engulf pathogens
+- Include [[Monocyte]], [[Macrophage]], [[Neutrophil]], [[Dendritic cell]], and [[Mast cell]]

@@ -1,0 +1,4 @@
+- Specific
+- Adaptive immune system cells
+	- [[B cell]]
+	- [[T cell]]

@@ -1,0 +1,6 @@
+- Named for hair-like projections
+- Present [[Antigen]] on MHC class II to CD4+ [[T cell]], like [[Macrophage]] and [[B cell]]
+- Cross presentation: present [[Antigen]] on MHC class I to CD8+ [[T cell]]
+- Langerhans cells
+	- Found in epidermis of skin
+	- Behave similarly to dendritic cells but are currently accepted as [[Macrophage]]

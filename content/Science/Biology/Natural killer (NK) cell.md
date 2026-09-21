@@ -1,0 +1,5 @@
+- [[Innate immune system]] (nonspecific)
+- Target virus-infected cells and cancer cells, which express less MHC class I
+- Secrete granules containing perforin (perforates plasma membrane) and granzymes (enter through holes in plasma membrane and trigger [[Apoptosis]]) like cytotoxic [[T cell]]
+- Antibody-dependent cellular cytotoxicity (ADCC) response
+	- NK cells kill cells coated with antibodies

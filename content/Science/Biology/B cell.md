@@ -1,11 +1,11 @@
-* Adaptive immune system: targets specific pathogens (as opposed to innate immune system)
+* [[Adaptive immune system]]: targets specific pathogens (as opposed to innate immune system)
 * Derived from bone marrow stem cells (hematopoietic cells) and travel to lymphoid organs such as lymph nodes
 	* Hematopoiesis: formation of blood cells 
 * In birds, mature in bursa (namesake "B") of Fabricius
 	* B cells first discovered in chickens (model organism)
 - In maturation, V(D)J recombination (type of somatic recombination) occurs
 	- V, D, J segments shuffled to create diverse antibodies
-* In lymphoid organs, B cells can internalize [[Antigens]] by swallowing foreign bodies
+* In lymphoid organs, B cells can internalize [[Antigen]] by swallowing foreign bodies
 	* Then, the B cell can split the antigen's proteins into peptides
 	* B cell presents peptides on Major Histocompatibility Complex (MHC) class II to identify invader
 	* Once Helper [[T cell]] confirms, B cell is fully activated
