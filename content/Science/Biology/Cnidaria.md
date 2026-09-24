@@ -29,6 +29,9 @@
 		- Epidermal and gastrodermal cells have bundles of microfilaments arranged into contractile fibers
 	- Gastrovascular cavity acts as hydrostatic skeleton, pushing back on contractile tissues
 		- Pressurized fluid in closed body compartment
+- Nervous system: noncentralized nerve net, no brain
+	- Associated with sensory structures around the body
+	- Can detect and respond to stimuli from any direction
 - Diverged into two major clades
 	- Medusozoa
 		- Produce medusa

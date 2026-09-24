@@ -3,8 +3,8 @@
 - Fermi-Dirac statistics
 - [[Pauli exclusion principle]]
 - Leptons
-	- [[Electrons]]
-	- [[Muons]]
+	- [[Electron]]
+	- [[Muon]]
 	- [[Tau]]
 	- [[Electron neutrino]]
 	- [[Muon neutrino]]

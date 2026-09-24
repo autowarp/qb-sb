@@ -1,2 +1,3 @@
-[[Fermions]]
-[[Bosons]]
+[[Fermion]]
+[[Boson]]
+[[Hadron]]

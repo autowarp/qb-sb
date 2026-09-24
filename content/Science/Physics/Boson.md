@@ -1,8 +1,8 @@
 - Force particles: mediate [[Fundamental forces]]
 - Integer spin
 - Bose-Einstein statistics
-- [[Photons]]
-- [[Gluons]]
+- [[Photon]]
+- [[Gluon]]
 - [[W boson]]
 - [[Z boson]]
 - [[Higgs boson]]

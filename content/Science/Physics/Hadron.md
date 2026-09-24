@@ -1,0 +1,6 @@
+- Composite subatomic particle (made of two or more quarks held together by [[Strong force]])
+- Two main types
+	- [[Meson]]: one [[Quark]], one antiquark; classified as [[Boson]]
+	- [[Baryon]]: usually three [[Quark]] or three antiquarks, classified as [[Fermion]]
+		- [[Proton]]: 2 up [[Quark]], 1 down [[Quark]]
+		- [[Neutron]]: 1 up [[Quark]], 2 down [[Quark]]
