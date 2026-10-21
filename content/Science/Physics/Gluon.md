@@ -1,0 +1,5 @@
+- Force carrier in [[Quantum chromodynamics]]
+- Carry [[Color charge]] and anticolor charge
+	- Allows for [[Quark]] to change [[Color charge]] by emitting or absorbing gluons
+		- Ex. when a red quark emits a red-antiblue gluon or absorbs a blue-antired gluon, it becomes blue
+- Form flux tubes, which act like rubber bands

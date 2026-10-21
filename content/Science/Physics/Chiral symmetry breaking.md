@@ -1,0 +1,13 @@
+- Helicity: whether direction of spin axis relative to velocity vector follows the right-hand rule (same direction) or the left-hand rule (opposite directions)
+	- Right-hand/left-hand rule: curl fingers of right/left hand in right-handed/left-handed quark's spin direction and thumb points along spin axis
+- Chirality: intrinsic quantum property determined by how transformation occurs
+- Chiral symmetry: left-handed and right-handed [[Quark]] are completely independent, and there is no switching between chiralities
+	- Helicity is not symmetric because since quarks have mass and cannot travel at the speed of light, an observer could hypothetically overtake them and observe them from the other direction, reversing helicity
+- [[Gluon]] field spontaneously pulls virtual [[Quark]]-[[Antiquark]] pairs out of vacuum, filling space with quark condensate
+	- Quark condensate must be isotropic (same in all directions) since it is the vacuum
+		- Total linear momentum = 0
+			- In each pair, the quark and antiquark move in opposite directions
+		- Total spin (angular momentum) = 0
+			- The spins of the quark and antiquark in each pair cancel
+- Chiral quarks constantly interact with quark condensate and switch chirality, slowing them down and increasing their effective mass greatly compared to the mass from the [[Higgs boson]]
+	- The [[Theory of relativity]] states that anything moving below the speed of light has mass

@@ -1,0 +1,2 @@
+- Type of [[Quantum field theory]]
+- Fundamental fields cannot be directly measured (gauged) but can be indirectly derived from measurements of associated quantities

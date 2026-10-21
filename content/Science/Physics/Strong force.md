@@ -1,6 +1,5 @@
-- Confines quarks into [[Proton]], [[Neutron]], and other [[Hadron]]
+- Confines [[Quark]] into [[Proton]], [[Neutron]], and other [[Hadron]]
 	- Mediated by [[Gluon]]
-	- Color confinement: particles with [[Color charge]] cannot be isolated
-		- Exception: above Hagedorn temperature (approximately 2 terakelvin)
+		- Described by [[Quantum chromodynamics]]
 - Nuclear force/residual strong force: binds [[Proton]] and [[Neutron]] in atomic nuclei
 	- Mediated by [[Meson]]

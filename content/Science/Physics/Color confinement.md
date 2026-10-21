@@ -1,0 +1,7 @@
+- Results in color neutrality: particles must combine to look white (neutral)
+	- Three quarks of each color ([[Baryon]])
+	- A quark and its anti-quark ([[Meson]])
+- Attempting to separate a [[Quark]] and an [[Antiquark]] bounded by a [[Gluon]] tube ([[Meson]]) will spontaneously form another [[Quark]]-[[Antiquark]] pair, leaving two mesons
+- Attempting to separate a [[Quark]] from a system of three [[Quark]] ([[Baryon]]) will produce a [[Quark]]-[[Antiquark]] pair, resulting in an additional [[Meson]] being formed
+- Tension stays approximately constant at sufficiently large distances, so work is converted to potential energy, which reaches 2mc^2 before quarks can separate, enough to form two new particles by E=mc^2
+- Exception: above Hagedorn temperature (approximately 2 TK)

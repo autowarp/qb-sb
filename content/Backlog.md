@@ -1,3 +1,6 @@
+- lagrangian mechanics
+- QED
+- feynman diagrams
 - nucleons
 - pions
 - mesons

@@ -1,0 +1,3 @@
+- [[Quark]] barely interact with each other at small distances
+- [[Gluon]] cloud acts as amplifier for [[Quark]]'s [[Color charge]]
+- Effective [[Color charge]] approaches zero as observer approaches [[Quark]] and passes [[Gluon]] cloud
